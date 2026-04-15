@@ -12,6 +12,7 @@ github discovery:
 * https://cli.github.com/
 * gh-repo-man
 
-Kaggle: api, Kaggle MCP via Composio, Agent-K Kaggle toolset, KaggleIngest
+Kaggle: api
 
-
+* https://github.com/mikewcasale/agent-k : Conducts comprehensive research including literature review, leaderboard analysis, exploratory data analysis, and strategy synthesis. Identifies winning approaches from similar past competitions.
+* full stack: https://github.com/Anand-0037/KaggleIngest
