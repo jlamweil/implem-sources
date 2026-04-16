@@ -14,5 +14,7 @@ github discovery:
 
 Kaggle: api
 
+* general: https://github.com/faridrashidi/kaggle-solutions?tab=readme-ov-file
+
 * https://github.com/mikewcasale/agent-k : Conducts comprehensive research including literature review, leaderboard analysis, exploratory data analysis, and strategy synthesis. Identifies winning approaches from similar past competitions.
 * full stack: https://github.com/Anand-0037/KaggleIngest
